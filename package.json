@@ -1,0 +1,32 @@
+{
+  "name": "mongoose-easy",
+  "version": "1.0.2",
+  "description": "Get mongoose plugins which makes your complicated MongoDB use-cases simpler",
+  "main": "package/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RahulChouhan96/mongoose-easy.git"
+  },
+  "keywords": [
+    "mongoose",
+    "mongoose-easy",
+    "sort",
+    "priority-sort"
+  ],
+  "author": "samshubbu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RahulChouhan96/mongoose-easy/issues"
+  },
+  "homepage": "https://github.com/RahulChouhan96/mongoose-easy#readme",
+  "devDependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.4"
+  }
+}
